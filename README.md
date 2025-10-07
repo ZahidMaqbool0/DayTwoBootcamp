@@ -24,6 +24,7 @@ DayTwoBootcamp
 	- git branch <BranchName>
 14. Switch branch 
 	- git switch <BranchName>
+15. git pull origin main
 
 
  
